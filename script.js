@@ -281,7 +281,7 @@ async function generateRecipe() {
 function initHowler() {
     // Placeholder: Replace 'xmas_jingle.mp3' with your actual file path
     backgroundSound = new Howl({
-        src: ['xmas_jingle.mp3'], 
+        src: ['Jingle Bells with Lyrics Christmas Songs HD Christmas Songs and Carols - Christmas Songs and Carols - Love to Sing.mp3'], 
         loop: true,
         volume: 0.6,
         html5: true 
@@ -597,3 +597,4 @@ function handleGiftBoxClick() {
         ease: "back.out(1.7)"
     });
 }
+
